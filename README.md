@@ -4,7 +4,10 @@
 <h1 align="center" style="text-decoration: none; color: black;">I'm Anderson Ruiz G</h1>
 <h2 align="left">Who I am?</h2>
 <h3 align="left">Full Stack Web Developer from Colombia, passionate about technology and web development 🖳.<br/>I consider myself an avid learner, constantly seeking new challenges to broaden my horizons. </h3>
-<img align="center" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+<br>
+<p align="center">
+  <img align="center" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+</p>
 
 <h2 align="left">My goal</h2>
 <h3 align="left">I seek to find an environment that allows me to contribute, learn, and grow both professionally and personally.</h3>
