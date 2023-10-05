@@ -26,7 +26,7 @@
   <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3A4c3dtMmNpYzNwbWowaGZ4MjBlaDF1ZjB0cjRwZDVwbHpxNDJ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dbvcPNLcC6Tlu/giphy.gif"/>
 </p>
 
-<h3 align="left">Contact me</h3>
+<h2 align="left">Contact me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/anderson-ruiz-gómez-583419281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anderson-ruiz-gómez-583419281" height="30" width="40" /></a>
 </p>
