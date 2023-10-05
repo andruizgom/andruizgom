@@ -1,4 +1,4 @@
-<h1 align="center" color="black">Hi there, I'm Anderson Ruiz G</h1>
+<h1 align="center" style="color: black;">Hi there, I'm Anderson Ruiz G</h1>
 <h2 align="center">Who I am</h2>
 <h3 align="center">Full Stack Web Developer from Colombia, passionate about technology and web development 🖳.</h3>
 
