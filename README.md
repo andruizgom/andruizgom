@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
-<h1 align="center" style="text-decoration: none; color: black;">I'm Anderson Ruiz G</h1>
+<h1 align="center" style="color: black;">I'm Anderson Ruiz G</h1>
 <h2 align="left">About me</h2>
 <h3 align="left">Full Stack Web Developer from Colombia, passionate about technology and web development 🖳.<br/>I consider myself an avid learner, constantly seeking new challenges to broaden my horizons. </h3>
 <br>
