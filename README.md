@@ -19,6 +19,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andruizgom&show_icons=true&locale=en&layout=compact" alt="andruizgom" /></p>
 
+<h2 align="left">Personal Interests</h2>
+<h3 align="left">Outside of the tech world, I have a love for chess, enjoy immersing myself in the captivating novels of Dan Brown and Paula Hawkins, and find solace in the adrenaline rush of survival horror video games like Resident Evil or Silent Hill 🕹️.</h3>
+
 <h3 align="left">Contact me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anderson-ruiz-gómez-583419281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anderson-ruiz-gómez-583419281" height="30" width="40" /></a>
