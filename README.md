@@ -21,6 +21,9 @@
 
 <h2 align="left">Personal Interests</h2>
 <h3 align="left">Outside of the tech world, I have a love for chess, enjoy immersing myself in the captivating novels of Dan Brown and Paula Hawkins, and find solace in the adrenaline rush of survival horror video games like Resident Evil or Silent Hill 🕹️.</h3>
+<p align="center">
+  <img align="center" src="https://media.giphy.com/media/S9gCTpB8SInEQ/giphy.gif" width="1050" height="150" />
+</p>
 
 <h3 align="left">Contact me</h3>
 <p align="left">
