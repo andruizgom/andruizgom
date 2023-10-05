@@ -5,8 +5,9 @@
 <h2 align="left">Who I am?</h2>
 <h3 align="left">Full Stack Web Developer from Colombia, passionate about technology and web development 🖳.<br/>I consider myself an avid learner, constantly seeking new challenges to broaden my horizons. </h3>
 <br>
+
 <p align="center">
-  <img align="center" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+  <img align="center" src="https://media.giphy.com/media/DspGTIUjMs3FBQwkCE/giphy.gif" />
 </p>
 
 <h2 align="left">My goal</h2>
@@ -22,7 +23,7 @@
 <h2 align="left">Personal Interests</h2>
 <h3 align="left">Outside of the tech world, I have a love for chess, enjoy immersing myself in the captivating novels of Dan Brown and Paula Hawkins, and find solace in the adrenaline rush of survival horror video games like Resident Evil or Silent Hill 🕹️.</h3>
 <p align="center">
-  <img align="center" src="https://media.giphy.com/media/S9gCTpB8SInEQ/giphy.gif" width="1050" height="150" />
+  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3A4c3dtMmNpYzNwbWowaGZ4MjBlaDF1ZjB0cjRwZDVwbHpxNDJ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dbvcPNLcC6Tlu/giphy.gif"/>
 </p>
 
 <h3 align="left">Contact me</h3>
