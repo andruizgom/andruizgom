@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img align="center" src="<iframe src="https://giphy.com/embed/JkVnfE54QdOMQBxmHg" width="480" height="252" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DataCamp-data-analytics-datacamp-JkVnfE54QdOMQBxmHg">via GIPHY</a></p>" />
+  <img align="center" src="https://media.giphy.com/media/DspGTIUjMs3FBQwkCE/giphy.gif" />
 </p>
 
 <h2 align="left">My goal</h2>
